@@ -5,8 +5,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Arkanoid MCU Bypass"
-Date "2022-07-09"
-Rev "1.0"
+Date "2022-07-13"
+Rev "1.1"
 Comp "Marc Deslauriers"
 Comment1 ""
 Comment2 ""
@@ -90,10 +90,14 @@ NoConn ~ 5200 2400
 NoConn ~ 5200 2500
 NoConn ~ 5200 2600
 NoConn ~ 5200 2700
-NoConn ~ 5200 2800
 NoConn ~ 5200 2900
 NoConn ~ 5200 3000
 NoConn ~ 5200 3100
-NoConn ~ 5200 3200
 NoConn ~ 5700 2200
+Wire Wire Line
+	5200 2800 5050 2800
+Wire Wire Line
+	5050 2800 5050 3200
+Wire Wire Line
+	5050 3200 5200 3200
 $EndSCHEMATC

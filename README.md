@@ -8,8 +8,9 @@ https://forums.arcade-museum.com/threads/arkanoid-freeplay-rom.508179/
 
 Change history:  
 1.0 - Initial version  
+1.1 - Updated to connect pins 7 and 11 and remove the need to jumper IC27.
 
 To Do:  
 
 Marc Deslauriers
-2022-07-09
+2022-07-13
