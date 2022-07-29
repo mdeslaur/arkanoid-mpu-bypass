@@ -9,6 +9,7 @@ https://forums.arcade-museum.com/threads/arkanoid-freeplay-rom.508179/
 Change history:  
 1.0 - Initial version  
 1.1 - Updated to connect pins 7 and 11 and remove the need to jumper IC27.
+1.2 - Rotated text the right way on the PCB.
 
 To Do:  
 

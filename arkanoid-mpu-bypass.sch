@@ -5,8 +5,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Arkanoid MCU Bypass"
-Date "2022-07-13"
-Rev "1.1"
+Date "2022-07-29"
+Rev "1.2"
 Comp "Marc Deslauriers"
 Comment1 ""
 Comment2 ""
